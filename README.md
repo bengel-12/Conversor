@@ -1,6 +1,24 @@
 # Conversor
 Challenge Alura Conversor de Monedas
 
+FUNCIONALIDADES:
+
+*Conversor de Divisas (ARS, USD, EUR, GBP, JPY, KRW)*
+
+*Conversor de Temperatura (Celsius, Fahernheit, Kelvin)*
+
+
+Challenge Alura de conversor de monedas.
+Este proyecto fue realizado en JAVA utilizando la parte grafica (Button´s, text field´s, y, label´s). Permite la conversion de las divisas ya mencionadas,
+como tambien de las temperaturas.
+
+No permite el ingreso de letras en las casillas de jTextField. 
+
+
+GRACIAS POR PASARTE POR MI REPOSITORIO c:
+
+
+
 ![image](https://user-images.githubusercontent.com/112106345/218338763-7a509491-41f1-430a-8de7-319612b66dec.png)
 
 ![image](https://user-images.githubusercontent.com/112106345/218338836-dfacd762-e8d3-4631-bc31-5193862bf6b1.png)
